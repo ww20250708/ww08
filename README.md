@@ -10,4 +10,4 @@
 
 本站提供丰富的影视资源，确保用户随时能够观看最新、最热的影片。无需注册，点击即播，流畅体验，满足不同用户的观影需求。
 
-<span style="display:none;">[Canonical link](https://github.com/ww20250708 ）</span>
+<span style="display:none;">[Canonical link](https://github.com/ww20250708/ww08 ）</span>
